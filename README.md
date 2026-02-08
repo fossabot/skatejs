@@ -4,6 +4,7 @@
 [![Downloads per month](https://img.shields.io/npm/dm/skatejs.svg)](https://www.npmjs.com/package/skatejs)
 [![Join the chat at https://gitter.im/skatejs/skatejs](https://badges.gitter.im/skatejs/skatejs.svg)](https://gitter.im/skatejs/skatejs)
 [![Follow @skate_js on Twitter](https://img.shields.io/twitter/follow/skate_js.svg?style=social&label=@skate_js)](https://twitter.com/skate_js)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falialobidm%2Fskatejs.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Falialobidm%2Fskatejs?ref=badge_shield)
 
 Skate is a functional reactive abstraction over
 [the web component standards](https://github.com/w3c/webcomponents) as a set of packages that enables you to write small, fast and scalable web components using popular view libraries such as React, Preact and LitHTML.
@@ -126,3 +127,7 @@ site. [Become a sponsor](https://opencollective.com/skatejs#sponsor)!
 [![](https://opencollective.com/skatejs/sponsor/17/avatar.svg)](https://opencollective.com/skatejs/sponsor/17/website)
 [![](https://opencollective.com/skatejs/sponsor/18/avatar.svg)](https://opencollective.com/skatejs/sponsor/18/website)
 [![](https://opencollective.com/skatejs/sponsor/19/avatar.svg)](https://opencollective.com/skatejs/sponsor/19/website)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falialobidm%2Fskatejs.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Falialobidm%2Fskatejs?ref=badge_large)
